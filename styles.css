@@ -1,1 +1,28 @@
 /* Write your CSS here! */
+body {
+    background-color: darkgrey;
+    margin: 8px;
+    padding-left: 10px;
+    display: block;
+}
+
+#mainHeading {
+    color: red;
+}
+
+h2 {
+    color: saddlebrown;
+    font-style: italic;
+    padding-top: 15px;
+}
+
+.funParagraph {
+    color: green;
+}
+
+img {
+    display: block;
+    width: 55%;
+    height: auto;
+    margin-left: 22.5%;
+  }
